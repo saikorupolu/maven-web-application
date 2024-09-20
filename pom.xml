@@ -93,21 +93,21 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.212.71.229:9980/mithuntechnologies/repository/canarabank-snapshot/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.212.71.229:9980/mithuntechnologies/repository/canarabank-release/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+	 <distributionManagement>
+
+            <repository>
+              <id>nexus</id>
+              <name>Sai Devops Practice Releases Nexus Repository</name>
+              <url>http://34.228.162.22:8081/repository/facebook-release/</url>
+            </repository>
+
+            <snapshotRepository>
+              <id>nexus</id>
+              <name>Sai Devops Practice Snapshot Nexus Repository</name>
+              <url>http://34.228.162.22:8081/repository/facebook-snapshot/</url>
+            </snapshotRepository>
+
+        </distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
