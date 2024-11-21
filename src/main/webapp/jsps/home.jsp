@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to INDIAN TESTING GOLLAMUDDI Private Ltd. Ph No: +91-6665656565 ,+91-7985436656,Bengaluru,Karnataka,India</h1>
+<h1 align="center">Welcome to INDIAN TESTING THOTAPURI Private Ltd. Ph No: +91-6665656565 ,+91-7985436656,Bengaluru,Karnataka,India</h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Terraform & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
